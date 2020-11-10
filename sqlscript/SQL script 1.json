@@ -1,0 +1,16 @@
+{
+	"name": "SQL script 1",
+	"properties": {
+		"content": {
+			"query": "CREATE TABLE test(\n    id int,\n    name  CHAR(100)\n)",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"name": "ws",
+				"type": "SqlPool"
+			}
+		},
+		"type": "SqlQuery"
+	}
+}
