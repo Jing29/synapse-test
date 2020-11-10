@@ -1,0 +1,15 @@
+Container: container_1604303287979_0003_01_000001 on 818881c9c2c941129f58cbd3560fa11e00109e02112_33653
+LogAggregationType: AGGREGATED
+======================================================================================================
+LogType:prelaunch.out
+LogLastModifiedTime:Mon Nov 02 07:54:49 +0000 2020
+LogLength:100
+LogContents:
+Setting up env variables
+Setting up job resources
+Copying debugging information
+Launching container
+
+End of LogType:prelaunch.out
+******************************************************************************
+
