@@ -1,0 +1,25 @@
+{
+	"name": "Database 1",
+	"properties": {
+		"Origin": {
+			"Type": "SPARK"
+		},
+		"Properties": {
+			"IsSyMSCDMDatabase": true
+		},
+		"Source": {
+			"Provider": "ADLS",
+			"Location": "abfss://gyyfilesystem@gyygen3.dfs.core.windows.net/Database 1",
+			"Properties": {
+				"FormatType": "csv",
+				"LinkedServiceName": "lilijingppe0207-WorkspaceDefaultStorage"
+			}
+		},
+		"PublishStatus": "PUBLISHED",
+		"ObjectVersion": 1,
+		"ObjectId": "68221728-83ad-44e9-bd85-5e913d1d02ae",
+		"Name": "Database 1",
+		"EntityType": "DATABASE"
+	},
+	"type": "DATABASE"
+}
